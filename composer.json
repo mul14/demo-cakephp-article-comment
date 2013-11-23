@@ -1,5 +1,5 @@
 {
-    "name": "example-app",
+    "name": "cakephp-guestbook",
     "repositories": [
         {
             "type": "pear",
