@@ -1,6 +1,6 @@
 ## Demo CakePHP untuk nampilin Article -> Comment
 
-Load CakePHP dependencies
+Load CakePHP dependencies dengan [composer](http://getcomposer.org)
     
     composer install
     
